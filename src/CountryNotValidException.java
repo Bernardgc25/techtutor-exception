@@ -1,0 +1,3 @@
+class CountryNotValidException extends Exception{
+  
+}

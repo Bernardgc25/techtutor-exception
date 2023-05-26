@@ -1,0 +1,3 @@
+class EmployeeNameInvalidException extends Exception {
+
+}
